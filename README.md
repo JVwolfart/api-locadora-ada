@@ -48,7 +48,7 @@ No final do projeto, desenvolvi as seguintes rotas:
 
 Além disso, implementei 2 middlewares personalizados, sendo um para tratar os erros, e outro para imprimir a data e hora da requisição no console.
 
-Este projeto também faz integração com banco de dados MySQL,então é necessário ter o MySQL instalado na sua máquina para rodar este projeto, e para realizar a configuração das variáveis de ambiente, basta editar o arquivo .env.example.
+Este projeto também faz integração com banco de dados MySQL, portanto, é necessário ter o MySQL instalado na sua máquina para rodar este projeto, e para realizar a configuração das variáveis de ambiente, basta editar o arquivo .env.example.
 
 Para criar o banco de dados conforme esse projeto, utilize os comandos SQL abaixo.
 
